@@ -1,0 +1,27 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+ --typography-marcone-heading-xl: 700 29.19px/44.628px "Poppins";
+ --typography-marcone-heading-large: 700 19.979px "Poppins";
+ --typography-marcone-heading-medium: 700 15.297px "Poppins";
+ --typography-marcone-heading-small: 700 13.985px/13.32px "Poppins";
+ --typography-marcone-copy-medium: 400 11.988px/12.321px "Poppins";
+ --typography-marcone-copy-small: 400 8.479px/22.314px "Poppins";
+ /* O'Connor */
+ --typography-o-connor-heading-xl: 700 29.19px/44.628px "Inter";
+ /* O'Connor */
+ --typography-o-connor-heading-large: 700 19.979px "Inter";
+ /* O'Connor */
+ --typography-o-connor-heading-medium: 700 15.297px "Inter";
+ /* O'Connor */
+ --typography-o-connor-heading-small: 700 13.985px/13.32px "Inter";
+ /* O'Connor */
+ --typography-o-connor-display-large: 700 18.931px/17.147px "Inter";
+ /* O'Connor */
+ --typography-o-connor-display-small: 700 9.727px/10.077px "Inter";
+ --typography-marcone-display-large: 700 18.931px/17.147px "Poppins";
+ --typography-marcone-display-small: 700 9.727px/10.077px "Poppins";
+}
